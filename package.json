@@ -1,0 +1,23 @@
+{
+  "name": "screeps-datavisualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/test.js",
+  "dependencies": {
+    "screeps-api": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ureimu/screeps-DataVisualization.git"
+  },
+  "author": "Ureium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ureimu/screeps-DataVisualization/issues"
+  },
+  "homepage": "https://github.com/Ureimu/screeps-DataVisualization#readme"
+}
